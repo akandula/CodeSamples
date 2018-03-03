@@ -1,0 +1,10 @@
+!SESSION 2018-03-03 12:20:38.831 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.ibm.rules.studio.infocenter 4 0 2018-03-03 12:22:08.961
+!MESSAGE GBRSU0109E : The infocenter.properties file was not found at the expected location C:\softwares\eclipse-jee-luna-SR2-win32-x86_64\eclipse\studio\infocenter.properties.
